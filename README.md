@@ -11,6 +11,6 @@ By default, labels and badges for the boot entries are hidden. If you would like
 
 ### Credits
 
-- Evan Purkhiser - original theme, which uses OS icons from SWOriginal. 
+- [Evan Purkhiser - original theme](https://github.com/EvanPurkhiser/rEFInd-minimal), which uses OS icons from SWOriginal. 
 - Ukr55 - cursor icon, font image, some of the tool icons.
-- Alex James - clover-minimal-theme
+- [Alex James - clover-minimal-theme](https://github.com/al3xtjames/clover-theme-minimal)
