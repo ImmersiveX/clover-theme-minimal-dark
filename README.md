@@ -7,7 +7,7 @@ Dark version of minimal clover theme for [the Clover UEFI bootloader](http://sou
 Clone or download the ZIP of this repo to your Clover theme directory (in /EFI/CLOVER/themes, located on the EFI system partition).
 Then, edit your Clover config.plist to select the theme.
 
-By default, labels and badges for the boot entries are hidden. If you would like to enable them, you can edit the theme.plist file in this repo by changing the `Label` key to `true` and `Badges` `Show` key to `true`.
+By default, labels and badges for the boot entries are hidden. If you would like to enable them, you can edit the theme.plist file in this repo by changing the `Label` key to `true` and `Badges`/`Show` key to `true`.
 
 ### Credits
 
