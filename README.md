@@ -1,7 +1,7 @@
 # minimal-dark clover theme
 Dark version of minimal theme with a few tweaks for [the Clover UEFI bootloader](http://sourceforge.net/projects/cloverefiboot), based off [clover-theme-minimal by Alex James](https://github.com/al3xtjames/clover-theme-minimal).
 
-![Screenshot of the theme](https://i.imgur.com/noHmZ1o.png)
+![Screenshot of the theme](https://i.imgur.com/teYdUIW.png)
 
 ### Installation
 Clone or download the ZIP of this repo to your Clover theme directory (in /EFI/CLOVER/themes, located on the EFI system partition).
